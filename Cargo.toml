@@ -1,0 +1,7 @@
+[package]
+name = "rusthdl-alu"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rust-hdl = { version = "0.46.0", features = ["fpga"] }
